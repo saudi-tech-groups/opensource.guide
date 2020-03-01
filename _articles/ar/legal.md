@@ -11,7 +11,6 @@ image: /assets/images/cards/legal.png
 related:
   - contribute
   - leadership
-published: true
 ---
 
 ## فهم المضامين القانونية للمصادر المفتوحة
